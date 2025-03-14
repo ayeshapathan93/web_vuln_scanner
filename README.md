@@ -4,3 +4,8 @@ NAME : PATHAN AYESHA
 INTERN ID : CT04WU135
 DOMAIN : CYBER SECURITY AND ETHICAL HACKING 
 DURATION : 4 WEEKS
+
+
+OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/e037a27d-629c-44d8-9af0-62c78afa051e)
